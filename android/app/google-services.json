@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "991471531476",
+    "project_id": "iospoc-e2494",
+    "storage_bucket": "iospoc-e2494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991471531476:android:33359dcc1c0ce0b4849241",
+        "android_client_info": {
+          "package_name": "com.example.flutter_learn_basic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpOgiVL3TkW6nz1xhLHWNAQOMcP-A_jDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991471531476:android:3777c41192826535849241",
+        "android_client_info": {
+          "package_name": "com.example.flutter_official_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpOgiVL3TkW6nz1xhLHWNAQOMcP-A_jDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991471531476:android:0a43735a58841837849241",
+        "android_client_info": {
+          "package_name": "com.nyareh.iospoc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpOgiVL3TkW6nz1xhLHWNAQOMcP-A_jDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
